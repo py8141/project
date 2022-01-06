@@ -66,21 +66,6 @@ if(isset($_SESSION['login_admin'])){ //if manager logged in
 
   
 
-    <!-- <div class="site-blocks-cover overlay" style="background-image: url(images/hero_bg_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5" id="section-home">
-      <div class="container">
-        <div class="row align-items-center justify-content-center text-center">
-
-          <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
-            
-
-            <h1 class="text-white font-weight-light text-uppercase font-weight-bold" data-aos="fade-up">Online Food Delivery System</h1>
-            <p data-aos="fade-up" data-aos-delay="200"><a href="#" class="btn btn-primary py-3 px-5 text-white">Order Now</a></p>
-
-          </div>
-        </div>
-      </div>
-    </div>   -->
-
     <div class="site-section" id="section-login">
         <div class="container">
             <div class="row mb-5">
