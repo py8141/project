@@ -1,5 +1,5 @@
 <?php
-    session_start(); // Starting Session
+    session_start(); 
     if(isset($_SESSION['login_customer'])){ //if customer logged in
         header('location: index.php');
     }
@@ -40,14 +40,12 @@
         <div class="modal-footer">
             <a type="button" href="admin.php" class="btn btn-primary">Close</a>
         </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        </div>
+    </div>
+    </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
 
     <?php

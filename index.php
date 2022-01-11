@@ -58,8 +58,7 @@
             document.getElementById("customersignup").style.display = "none";
         }
     </script>
-  
-  <!-- <div class="site-wrap"> -->
+
 
     <div class="site-mobile-menu site-navbar-target">
       <div class="site-mobile-menu-header">
@@ -300,9 +299,7 @@
           <div class="col-md-12">
             <div class="border-top pt-5">
               <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
             </div>
           </div>
@@ -310,7 +307,6 @@
         </div>
       </div>
     </footer>
-  <!-- </div> -->
 
   <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
